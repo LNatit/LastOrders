@@ -1,0 +1,6 @@
+{
+  "package": "com.lnatit.lastorders.mixin",
+  "mixins": [],
+  "client": [],
+  "server": []
+}
