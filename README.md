@@ -1,1 +1,3 @@
 Last Orders from players...
+
+We assume that the server and all of the pre-world-loading logics are robust and focus on handling in-world crashes.
