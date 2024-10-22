@@ -12,6 +12,5 @@ public class Orderer {
     }
 
     public static void order() {
-        Event
     }
 }
